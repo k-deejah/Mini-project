@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+;
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+    body{
+    
+    background-image:url("../images/pattern-background-mobile.svg");
+    background-size: cover;
+    background-color: hsl(225, 100%, 94%) ;
+
+}
+.box{
+    width: 310px;
+    height: 650px;
+    background-color: white;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 50px;
+    
+}
+.hero{
+    justify-content: left;
+    align-items: left;
+    width: 300px;
+
+}
+.body{
+    display:flex;
+    flex-direction: column;
+}
+.attribution { font-size: 11px;
+     text-align: center;}
+     .attribution a{
+     color: hsl(228, 45%, 44%);
+     }
+h2{
+    padding-top: 30px;
+    font-family: 'Red Hat Display',sans-serif;
+
+}
+#main-content{
+    text-align: center;
+    font-family: 'Red Hat Display',sans-serif;
+}
+.mainparagraph{
+    padding: 20px;
+    color:hsl(224,23%,55%);
+
+}
+.subcription{
+    background: hsl(225,100%,98%);
+    padding: 15px 10px 15px 10px;
+    display: flex;
+    text-align: center;
+    margin:20px;
+    border-radius: 10p
+    x;
+    
+    
+    
+}
+#sub{
+    display: block;
+    padding: 5px 0px 0px 10px;
+    font-family: 'Red Hat Display',sans-serif;
+    
+}
+a{
+    padding: 10px 0px 0px 40px;
+    color:hsl(228,45%,44%);
+    font-family: 'Red Hat Display',sans-serif;
+    
+    
+}
+.image1{
+width:310px;
+height:150px;
+border-radius: 20px 20px 0 0;
+
+}
+.image2{
+width: 45px;
+height: 45px;
+}
+.price{
+color:hsl(224,23%,55%)
+}
+button{
+    width:90%;
+    background-color: hsl(245,75%,52%);
+    text-align: center;
+    margin-left:14px;
+    padding:15px;
+    border-radius: 10px;
+    border: 0;
+    outline:0;
+color:#fff ;
+    font-family: 'Red Hat Display',sans-serif;
+}
+.cancel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    color: hsl(224,23%,55%);
+    font-family: 'Red Hat Display',sans-serif;
+
+
+}
