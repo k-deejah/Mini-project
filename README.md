@@ -51,7 +51,7 @@ As mentioned above, there are many ways to host your project for free. Our recom
 
 - [GitHub Pages](https://k-deejah.github.io/Mini-project/
 - [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+- [Netlify](https://chic-faloodeh-d47713.netlify.app)
 
 You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
 
@@ -65,11 +65,7 @@ Once you've added your information to the template, delete this file and rename 
 
 ## Submitting your solution
 
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
-
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
-
-## Sharing your solution
+Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to d
 
 There are multiple places you can share your solution:
 
